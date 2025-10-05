@@ -1,1 +1,5 @@
 n,time_ms,candidate,comparisons,arrayAccesses
+100,0,null,200,200
+1000,0,null,2000,2000
+10000,0,null,20000,20000
+100000,5,null,200000,200000
